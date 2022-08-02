@@ -1,3 +1,3 @@
-# Java
+# JavaScript
 
-My journey to learning javascript
+My journey to learning javaScript
